@@ -1,3 +1,14 @@
-p{
+#paragraph,.red{
+    color: rgb(38, 0, 255);
+    font-size: 20px;
+     text-transform: lowercase;
+
+}
+/* .red{
+
+    color: red;
+    font-size: large;
+} */
+h3,h1,h2{
     color: blue;
 }

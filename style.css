@@ -1,11 +1,16 @@
 
-.login_body{
-
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.7)),url(img/pexels-pixabay-36717.jpg);
+body{
+    background-image: url('icon/pexel.jpg');
     background-size: cover;
-    background-position: center;
-    width: 100%;
-    height: 100vh;
-    position: absolute;
 
 }
+.login_body{
+background-color: rgba(255, 255, 255, 0);
+width: 500px;
+height: 400px;
+margin-left: 200px;
+text-align: center;
+padding-top: 30px;
+border: 3px solid red ;
+}
+

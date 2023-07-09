@@ -1,0 +1,25 @@
+.total-services-section{
+
+    height: 400px;
+    width: 600px;
+    background-color: black;
+    
+    align-items: center;
+}
+h1{
+    color: white;
+}
+
+.servise{
+    height: 120px;
+    width: 80px;
+    color: white;
+
+}
+.allservice{
+display: flex;
+background-color: black;
+/* box-shadow: 20px 20px white; */
+margin-left: 30px;
+
+}
